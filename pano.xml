@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20995" hassounds="0" start="node4" appversion="7.1.9">
+  <panorama id="node4">
+    <input leveltilesize="510" levelingpitch="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" height="2752" width="2752" overlap="1" levelbiashidpi="1.000">
+      <level height="2752" width="2752" preload="0" predecode="0"/>
+      <level height="1376" width="1376" preload="0" predecode="0"/>
+      <level height="688" width="688" preload="0" predecode="0"/>
+      <level height="344" width="344" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="193.2">
+      <start projection="4" pan="6.06" fov="100" tilt="-3.69"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-80"/>
+      <max fovstereographic="330" fovfisheye="360" scaletofit="1" pan="360" fov="140" tilt="90"/>
+    </view>
+    <userdata nodeid="node4" description="" latitude="52.238944" copyright="" heading="193.2" author="" datetime="28.05.26 09:26" customnodeid="" tags="panos" source="" title="" comment="" info="" longitude="9.104625" altitude="109.90"/>
+    <hotspots wordwrap="1" smoothmovement="0" height="20" width="180">
+      <label textalpha="1" enabled="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" background="1" height="20" width="180" backgroundalpha="1" borderalpha="1" border="1" bordercolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot description="" id="Point01" skinid="ht_node" pan="-259.18" target="88.1/-9.0/100.0" title="" distance="7.00526" tilt="-9.29" url="{node3}"/>
+      <hotspot description="" id="Point02" skinid="ht_node" pan="-340.74" target="-14.6/-26.4/100.0" title="" distance="2.55839" tilt="-11.62" url="{node2}"/>
+      <hotspot description="Unsere komfortabel eingerichteten Einzel- und Doppelzimmer verfügen über Dusche/WC, Balkon, Wertfach, 43''-HD-TV mit ca. 70 Sendern sowie rund 50 Radiosendern, Telefon und zwei Notrufsystemen zur Alarmierung des hauseigenen Pflegedienstes. In jedem Zimmer ist ein Rauchmelder installiert. " id="Point03" skinid="ht_info" title="Zimmerausstattung" target="" pan="-45.84" tilt="-9.11" url=""/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="1" zoomafteroutfov="40" delay="none" zoomafterinfov="140" zoomin="7" zoomoutpause="1" blendcolor="0x000000" zoomfov="40" zoomspeed="2" zoomout="0" type="mesh" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control contextprojections="0" lockedmouse="0" lockedwheel="0" simulatemass="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedkeyboard="0" lockedkeyboardzoom="0" rubberband="0" zoomcentercursor="1" invertwheel="0" sensitivity="8" speedwheel="1" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltilesize="510" levelingpitch="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" height="2752" width="2752" overlap="1" levelbiashidpi="1.000">
+      <level height="2752" width="2752" preload="0" predecode="0"/>
+      <level height="1376" width="1376" preload="0" predecode="0"/>
+      <level height="688" width="688" preload="0" predecode="0"/>
+      <level height="344" width="344" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="218.8">
+      <start projection="4" pan="0" fov="100" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-80"/>
+      <max fovstereographic="330" fovfisheye="360" scaletofit="1" pan="360" fov="140" tilt="90"/>
+    </view>
+    <userdata nodeid="node3" description="" latitude="52.238989" copyright="" heading="218.8" author="" datetime="28.05.26 09:27" customnodeid="" tags="panos" source="" title="" comment="" info="" longitude="9.104697" altitude="102.90"/>
+    <hotspots wordwrap="1" smoothmovement="0" height="20" width="180">
+      <label textalpha="1" enabled="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" background="1" height="20" width="180" backgroundalpha="1" borderalpha="1" border="1" bordercolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot description="" id="Point01" skinid="ht_node" pan="-92.4" target="-4.8/-6.0/100.0" title="" distance="7.00526" tilt="-10.74" url="{node4}"/>
+      <hotspot description="Unsere komfortabel eingerichteten Einzel- und Doppelzimmer verfügen über Dusche/WC, Balkon, Wertfach, 43''-HD-TV mit ca. 70 Sendern sowie rund 50 Radiosendern, Telefon und zwei Notrufsystemen zur Alarmierung des hauseigenen Pflegedienstes. In jedem Zimmer ist ein Rauchmelder installiert. " id="Point02" skinid="ht_info" title="Zimmerausstattung" target="" pan="-83.68" tilt="-4.03" url=""/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="1" zoomafteroutfov="40" delay="none" zoomafterinfov="140" zoomin="7" zoomoutpause="1" blendcolor="0x000000" zoomfov="40" zoomspeed="2" zoomout="0" type="mesh" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control contextprojections="0" lockedmouse="0" lockedwheel="0" simulatemass="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedkeyboard="0" lockedkeyboardzoom="0" rubberband="0" zoomcentercursor="1" invertwheel="0" sensitivity="8" speedwheel="1" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltilesize="510" levelingpitch="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" height="2752" width="2752" overlap="1" levelbiashidpi="1.000">
+      <level height="2752" width="2752" preload="0" predecode="0"/>
+      <level height="1376" width="1376" preload="0" predecode="0"/>
+      <level height="688" width="688" preload="0" predecode="0"/>
+      <level height="344" width="344" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="141.8">
+      <start projection="4" pan="0" fov="100" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-80"/>
+      <max fovstereographic="330" fovfisheye="360" scaletofit="1" pan="360" fov="140" tilt="90"/>
+    </view>
+    <userdata nodeid="node2" description="" latitude="52.238922" copyright="" heading="141.8" author="" datetime="28.05.26 09:28" customnodeid="" tags="panos" source="" title="" comment="" info="" longitude="9.104636" altitude="82.90"/>
+    <hotspots wordwrap="1" smoothmovement="0" height="20" width="180">
+      <label textalpha="1" enabled="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" background="1" height="20" width="180" backgroundalpha="1" borderalpha="1" border="1" bordercolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot description="" id="Point01" skinid="ht_node" pan="-266.33" target="-172.0/-1.8/100.0" title="" distance="2.55839" tilt="-6.34" url="{node4}"/>
+      <hotspot description="" id="Point02" skinid="ht_node" pan="-82.89" target="115.7/2.8/100.0" title="" distance="11.3295" tilt="-8.32" url="{node1}"/>
+      <hotspot description="Unsere Patienten werden ausschließlich einzeln untergebracht. Die Doppelzimmer stehen z. B. für Ehepaare zur Verfügung." id="Point03" skinid="ht_info" title="" target="" pan="-13.32" tilt="-12.03" url=""/>
+      <hotspot description="Der Ausblick auf die Ausläufer des Weserberglandes oder den Harrl wird Sie begeistern!" id="Point04" skinid="ht_info" title="" target="" pan="-104.65" tilt="-4.15" url=""/>
+      <hotspot description="Unsere komfortabel eingerichteten Einzel- und Doppelzimmer verfügen über Dusche/WC, Balkon, Wertfach, 43''-HD-TV mit ca. 70 Sendern sowie rund 50 Radiosendern, Telefon und zwei Notrufsystemen zur Alarmierung des hauseigenen Pflegedienstes. In jedem Zimmer ist ein Rauchmelder installiert. " id="Point05" skinid="ht_info" title="Zimmerausstattung" target="" pan="-254.16" tilt="-2.84" url=""/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="1" zoomafteroutfov="40" delay="none" zoomafterinfov="140" zoomin="7" zoomoutpause="1" blendcolor="0x000000" zoomfov="40" zoomspeed="2" zoomout="0" type="mesh" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control contextprojections="0" lockedmouse="0" lockedwheel="0" simulatemass="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedkeyboard="0" lockedkeyboardzoom="0" rubberband="0" zoomcentercursor="1" invertwheel="0" sensitivity="8" speedwheel="1" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input leveltilesize="510" levelingpitch="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" height="2752" width="2752" overlap="1" levelbiashidpi="1.000">
+      <level height="2752" width="2752" preload="0" predecode="0"/>
+      <level height="1376" width="1376" preload="0" predecode="0"/>
+      <level height="688" width="688" preload="0" predecode="0"/>
+      <level height="344" width="344" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="20.1">
+      <start projection="4" pan="107.797" fov="100" tilt="2.93884"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-80"/>
+      <max fovstereographic="330" fovfisheye="360" scaletofit="1" pan="360" fov="140" tilt="90"/>
+    </view>
+    <userdata nodeid="node1" description="" latitude="52.238978" copyright="" heading="20.1" author="" datetime="28.05.26 09:29" customnodeid="" tags="panos" source="" title="" comment="" info="" longitude="9.104497" altitude="111.40"/>
+    <hotspots wordwrap="1" smoothmovement="0" height="20" width="180">
+      <label textalpha="1" enabled="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" background="1" height="20" width="180" backgroundalpha="1" borderalpha="1" border="1" bordercolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot description="" id="Point01" skinid="ht_node" pan="-2.32" target="87.0/-8.1/100.0" title="" distance="11.3295" tilt="-6.39" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="1" zoomafteroutfov="40" delay="none" zoomafterinfov="140" zoomin="7" zoomoutpause="1" blendcolor="0x000000" zoomfov="40" zoomspeed="2" zoomout="0" type="mesh" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control contextprojections="0" lockedmouse="0" lockedwheel="0" simulatemass="1" contextfullscreen="1" contextvr="1" invertcontrol="1" lockedkeyboard="0" lockedkeyboardzoom="0" rubberband="0" zoomcentercursor="1" invertwheel="0" sensitivity="8" speedwheel="1" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <masternode>
+    <userdata description="" author="" copyright="" tags="" title="" comment=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
